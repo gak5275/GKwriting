@@ -1,7 +1,7 @@
 body {
     font-family: arial, helvetica, sans-serif;
-    /* background-color:#add8e6; */
-    /* color:maroon; */
+    background-color:#459190;
+    color:white;
     padding: 5px;
     margin-right: 150px;
     margin-left: 150px;
@@ -28,4 +28,5 @@ figure {
     padding-bottom: 1vw;
 }
 /*figcaption {font-style: italic; font-size: smaller;}*/
-/* img.photo {max-width:500px; width:100%} */
+img.small {max-width:300px; width:100%}
+img.license {max-width:100px; width:100%}
