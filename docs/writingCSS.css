@@ -5,7 +5,7 @@ body {
     padding: 5px;
      }
      p {
-         font-size: 11px;
+         /* font-size: 11px; */
      }
 h1 {
     }
@@ -13,6 +13,6 @@ nav {
     }
 img {
     }
-figure {width: 30%; margin: auto; padding-top: 1vw; padding-bottom: 1vw;}
+figure {width: 60%; margin: auto; padding-top: 1vw; padding-bottom: 1vw;}
 /*figcaption {font-style: italic; font-size: smaller;}*/
 img.photo {max-width:1000px; width:100%}
