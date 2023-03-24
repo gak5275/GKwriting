@@ -1,0 +1,18 @@
+body {
+    font-family: arial, helvetica, sans-serif;
+    /* background-color:#add8e6; */
+    /* color:maroon; */
+    padding: 5px;
+     }
+     p {
+         font-size: 11px;
+     }
+h1 {
+    }
+nav {
+    }
+img {
+    }
+figure {width: 30%; margin: auto; padding-top: 1vw; padding-bottom: 1vw;}
+/*figcaption {font-style: italic; font-size: smaller;}*/
+img.photo {max-width:1000px; width:100%}
