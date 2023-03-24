@@ -10,16 +10,18 @@ p {
     /* font-size: 11px; */
 }
 h1 {
-    margin: auto;
+    margin-right: 200px;
+    margin-left: 200px;
 }
 nav {
     margin: auto;
 }
 img {
-}
-figure {
     width: 100px;
     margin: auto;
+}
+figure {
+
     /* margin-right: 150px;
     margin-left: 150px; */
     padding-top: 1vw;
